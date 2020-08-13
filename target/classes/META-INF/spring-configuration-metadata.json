@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.example.algamoney.api.config.property.AlgamoneyApiProperty",
+      "name": "algamoney",
+      "type": "com.example.algamoney.api.config.property.AlgamoneyApiProperty"
+    },
+    {
+      "sourceType": "com.example.algamoney.api.config.property.AlgamoneyApiProperty",
+      "name": "algamoney.seguranca",
+      "sourceMethod": "getSeguranca()",
+      "type": "com.example.algamoney.api.config.property.AlgamoneyApiProperty$Seguranca"
+    }
+  ],
+  "properties": []
+}
